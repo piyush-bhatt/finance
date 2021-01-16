@@ -9,14 +9,18 @@ Finance
 
  <p>This project is available on <a href="https://github.com/piyush-bhatt/finance">GitHub</a> and <a href="https://deno.land/x/finance">DenoLand</a>. You can report bugs and discuss features on the <a href="https://github.com/piyush-bhatt/finance/issues">GitHub issues page</a>. It is available for use under the <a href="https://github.com/piyush-bhatt/finance/blob/master/LICENSE">MIT software license</a>.
 
+ <h2 id="import">Import Module</h2>
+
+	import { Finance } from "https://deno.land/x/finance@1.0.0/mod.ts"
+	// or
+	import { Finance } from "https://github.com/piyush-bhatt/finance/raw/main/mod.ts"
+ 
  <h2 id="usage">Usage</h2>
 
-	import { Finance } from "https://github.com/piyush-bhatt/finance/raw/main/mod.ts"
 	const finance = new Finance();
 	// To calculate Amortization
 	finance.AM(20000, 7.5, 5, 0);
 	// => 400.76
-
 
  <h2 id="tests">Tests</h2>
 
