@@ -7,7 +7,7 @@ Finance
 
  <p>Finance is a Deno module based on <a href="https://github.com/ebradyjobory/finance.js">Finance.js</a>. It makes it easy to incorporate common financial calculations into your application.</p>
 
- <p>This project is available on <a href="https://github.com/piyush-bhatt/finance">GitHub</a> and <a href="https://deno.land/x/finance">DenoLand</a>. You can report bugs and discuss features on the <a href="https://github.com/piyush-bhatt/finance/issues">GitHub issues page</a>. It is available for use under the <a href="https://github.com/piyush-bhatt/finance/blob/master/LICENSE.md">MIT software license</a>.
+ <p>This project is available on <a href="https://github.com/piyush-bhatt/finance">GitHub</a> and <a href="https://deno.land/x/finance">DenoLand</a>. You can report bugs and discuss features on the <a href="https://github.com/piyush-bhatt/finance/issues">GitHub issues page</a>. It is available for use under the <a href="https://github.com/piyush-bhatt/finance/blob/master/LICENSE">MIT software license</a>.
 
  <h2 id="usage">Usage</h2>
 
